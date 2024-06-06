@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145577401295",
+    "project_id": "buffet-cfbee",
+    "storage_bucket": "buffet-cfbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145577401295:android:4c917b1784cf0d0cd490ba",
+        "android_client_info": {
+          "package_name": "com.example.appbuffetfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfV9H-2iFtMDtsvpzVNLbdvuV3Zu6tXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
